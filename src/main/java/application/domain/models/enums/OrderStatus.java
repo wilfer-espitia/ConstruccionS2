@@ -1,6 +1,7 @@
 package application.domain.models.enums;
 
 public enum OrderStatus {
+    
     PENDING,
     CONFIRMED,
     SHIPPED,
